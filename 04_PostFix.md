@@ -1,6 +1,6 @@
 # PostFix - Serveur de mail
 
-[<== Retour](./)
+[<== Retour](../../)
 
 Si tous va bien, PostFix est déjà installer sur MacOS.
 

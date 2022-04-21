@@ -1,6 +1,6 @@
 # Afficher ou masquer les fichiers cachés sur MacOS
 
-[<== Retour](./)
+[<== Retour](../../)
 
 ## Afficher les fichiers cachés
 

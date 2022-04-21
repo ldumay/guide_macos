@@ -1,6 +1,6 @@
 # Installer un serveur MySQL sur MacOS
 
-[<== Retour](./)
+[<== Retour](../../)
 
 ## MySQL Server - Installation
 

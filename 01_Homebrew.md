@@ -1,6 +1,6 @@
 # Homebrew
 
-[<== Retour](./)
+[<== Retour](../../)
 
 ## Qu'est-ce que ?
 
